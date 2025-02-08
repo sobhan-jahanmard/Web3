@@ -20,3 +20,5 @@ ignition/deployments/chain-31337
 
 gas-report.txt
 deployment.log.txt
+
+.vscode
